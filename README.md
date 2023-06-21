@@ -17,6 +17,7 @@
 
 ## 📌 Github Stats
 ![Vini's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosViniDLL&theme=great-gatsby&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosViniDLL&theme=great-gatsby&show_icons=true)
 
 ## 📱 My Social Media
 
