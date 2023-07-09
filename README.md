@@ -17,6 +17,10 @@
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+## Github Stats
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosViniDLL&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ## 📱 My Social Media
 
 <a href="https://www.linkedin.com/in/marcosvinicius-lira-lourenco/">
