@@ -8,7 +8,7 @@
 
 🌐 My first "Hello World" was in C++.
 
-♨️ The next programming language that I want to learn is Java.
+♨️ The next programming language that I want to learn is Javascript.
 
 🎮 While I'm not coding or studying, I usually watch anime, movies or play games.
 
@@ -17,7 +17,7 @@
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Github Stats
+## 💻 Github Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosViniDLL&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
