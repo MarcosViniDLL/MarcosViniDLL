@@ -8,7 +8,7 @@
 
 🌐 My first "Hello World" was in C++.
 
-♨️ The next programming language that I want to learn is Javascript.
+♨️ The next programming language that I want to learn is Javascript and Java.
 
 🎮 While I'm not coding or studying, I usually watch anime, movies or play games.
 
