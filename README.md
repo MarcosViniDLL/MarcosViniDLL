@@ -8,7 +8,7 @@
 
 ♨️ The next programming language that I want to learn is Javascript and Java.
 
-🎮 While I'm not coding or studying, I usually watch anime, movies or play games.
+🎮 While I'm not coding or studying, I usually watch movies or play games.
 
 ## 🔨 My Current Tech Stack
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
